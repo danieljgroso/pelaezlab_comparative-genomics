@@ -1,4 +1,4 @@
-# Based on the following documentation from the Joseph Ryan Lab https://github.com/josephryan/Beroe_genome/blob/master/01-PHYLOTOCOLS/wnt_tgfbeta_gene_family_phylotocol_v1.md
+Based on the following documentation from the Joseph Ryan Lab https://github.com/josephryan/Beroe_genome/blob/master/01-PHYLOTOCOLS/wnt_tgfbeta_gene_family_phylotocol_v1.md
 
 # PLANNED ANALYSES FOR [ ]
  Investigators: [ NAMES ]

@@ -2,7 +2,9 @@ Based on the following documentation from the Joseph Ryan Lab https://github.com
 
 # PLANNED ANALYSES FOR [ ]
  Investigators: [ NAMES ]
+ 
  Draft or Version Number: v1.0  
+ 
  Date: DD MM XX:XX EDT YEAR
  Note: this document will be updated (updates will be tracked through github)
  

@@ -26,6 +26,7 @@ Based on the following documentation from the Joseph Ryan Lab https://github.com
 ## 2 STUDY DESIGN AND ENDPOINTS  
 
 2.1 [ Objective ]
+
 2.1.1 [ Sub-obj ] 
 
 [ commands used ] 

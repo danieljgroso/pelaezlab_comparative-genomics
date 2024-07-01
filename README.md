@@ -1,2 +1,5 @@
 # pelaezlab_comparative-genomics
-Scripts and planned analysis, based on the phylotocol approach (DeBiasse and Ryan) https://academic.oup.com/sysbio/article/68/4/672/5267839
+Daniel J. Groso
+
+Genomic data analysis repository
+Pelaez Lab Summer 2024 Rotation
